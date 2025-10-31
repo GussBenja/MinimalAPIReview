@@ -1,0 +1,30 @@
+[
+  {
+    "id": "prd-001",
+    "name": "Monitor 27\" 144Hz",
+    "imageUrl": "https://example.com/monitor27.jpg",
+    "description": "Panel IPS con resolución 2560x1440 a 144Hz",
+    "price": 249.99,
+    "rating": 4.5,
+    "technicalSpecifications": {
+      "panel": "IPS",
+      "resolution": "2560x1440",
+      "refreshRate": "144Hz",
+      "ports": "HDMI, DisplayPort"
+    }
+  },
+  {
+    "id": "prd-002",
+    "name": "Monitor 24\" 75Hz",
+    "imageUrl": "https://example.com/monitor24.jpg",
+    "description": "Panel VA Full HD 1080p a 75Hz",
+    "price": 129.9,
+    "rating": 4.2,
+    "technicalSpecifications": {
+      "panel": "VA",
+      "resolution": "1920x1080",
+      "refreshRate": "75Hz",
+      "ports": "HDMI"
+    }
+  }
+]
