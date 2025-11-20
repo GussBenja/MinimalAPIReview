@@ -1,4 +1,6 @@
 Este backend fue desarrollado para el challenge de MercadoLibre con el lenguaje .Net , se intento cubrir varios campos relevantes para poder cumplir con las consignas.
+Para ejecutar la aplicacion se sugiere utilizar visual studio, se descarga la aplicacion y se levanta la aplicacion, 
+y se configura como proyecto de inicio ProyectChallenge.Api
 
 Indice:
 -------
